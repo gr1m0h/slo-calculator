@@ -8,7 +8,11 @@
   },
   "scripts": {
     "build": "tsc",
-    "start": "node dist/cli.js"
+    "prepare": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gr1m0h/slo-burn.git"
   },
   "Keywords": [
     "SLO",
