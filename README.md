@@ -5,7 +5,7 @@ A library to compute error rate thresholds for Burn Rate Alerts based on SLO val
 ## Installation
 
 ```sh
-npm install slo-burn
+npm install -g slo-burn
 ```
 
 ## Usage
