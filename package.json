@@ -1,0 +1,29 @@
+{
+  "name": "slo-burn",
+  "version": "1.0.0",
+  "description": "A simple CLI tool to burn SLOs",
+  "main": "dist/index.js",
+  "bin": {
+    "slo-burn": "dist/cli.js"
+  },
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/cli.js"
+  },
+  "Keywords": [
+    "SLO",
+    "burn rate",
+    "CLI",
+    "OSS"
+  ],
+  "author": "gr1m0h",
+  "license": "MIT",
+  "dependencies": {
+    "yargs": "^17.7.2"
+  },
+  "devDependencies": {
+    "@types/node": "^22.13.0",
+    "@types/yargs": "^17.0.0",
+    "typescript": "^4.5.4"
+  }
+}
