@@ -1,5 +1,8 @@
 # Changelog
 
+## [v0.0.2](https://github.com/gr1m0h/slo-burn/compare/v0.0.1...v0.0.2) - 2025-02-16
+- feat: Add workflows for publishing and versioning by @gr1m0h in https://github.com/gr1m0h/slo-burn/pull/18
+
 ## [v0.0.1](https://github.com/gr1m0h/slo-burn/commits/v0.0.1) - 2025-02-16
 - feat: Add initial project setup with CLI tool by @gr1m0h in https://github.com/gr1m0h/slo-burn/pull/1
 - Update by @gr1m0h in https://github.com/gr1m0h/slo-burn/pull/3
