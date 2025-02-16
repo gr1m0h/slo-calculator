@@ -11,8 +11,6 @@ jobs:
       pull-requests: write
     steps:
     - uses: actions/checkout@v4
-      with:
-        token: ${{ secrets.GH_PAT }}
     - uses: Songmu/tagpr@main
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
