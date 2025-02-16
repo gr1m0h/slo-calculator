@@ -1,6 +1,6 @@
 {
   "name": "slo-burn",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "CLI tool that calculates error rate thresholds for each burn rate alert time window based on SLO values ​​and burn rate alert settings",
   "main": "dist/index.js",
   "bin": {
