@@ -1,7 +1,7 @@
 {
   "name": "slo-burn",
-  "version": "1.0.0",
-  "description": "A simple CLI tool to burn SLOs",
+  "version": "0.0.1",
+  "description": "CLI tool that calculates error rate thresholds for each burn rate alert time window based on SLO values ​​and burn rate alert settings",
   "main": "dist/index.js",
   "bin": {
     "slo-burn": "dist/cli.js"
@@ -17,8 +17,7 @@
   "Keywords": [
     "SLO",
     "burn rate",
-    "CLI",
-    "OSS"
+    "error rate"
   ],
   "author": "gr1m0h",
   "license": "MIT",
