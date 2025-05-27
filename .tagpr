@@ -46,3 +46,32 @@
 	vPrefix = true
 	releaseBranch = main
 	versionFile = package.json
+  changelog = true
+  changelogFile = "CHANGELOG.md"
+  commitMessage = "chore: release v{version}"
+  tagMessage = "Release v{version}"
+  prTitle = "Release v{version}"
+  label = "release,automation"
+  template = "## 🎉 Release PR
+
+This PR was created by [tagpr](https://github.com/Songmu/tagpr).
+
+### 📝 Changelog
+
+<!-- CHANGELOG -->
+
+### 🚀 After merge
+
+After merging this PR, tagpr will automatically:
+1. Create a new git tag
+2. Trigger the NPM publish workflow
+3. Create a GitHub release
+
+### ✅ Checklist
+
+- [ ] Version in package.json has been updated
+- [ ] CHANGELOG.md has been updated
+- [ ] All tests are passing
+- [ ] Documentation is up to date
+"
+
