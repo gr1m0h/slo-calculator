@@ -1,5 +1,11 @@
 # Changelog
 
+## [v1.0.0](https://github.com/gr1m0h/slo-calculator/compare/v0.0.2...v1.0.0) - 2025-05-27
+- chore(deps): update actions/setup-node action to v4 by @renovate in https://github.com/gr1m0h/slo-calculator/pull/20
+- ci: pinact run by @gr1m0h in https://github.com/gr1m0h/slo-calculator/pull/23
+- Update calculator by @gr1m0h in https://github.com/gr1m0h/slo-calculator/pull/28
+- chore: Update version by @gr1m0h in https://github.com/gr1m0h/slo-calculator/pull/30
+
 ## [v0.0.2](https://github.com/gr1m0h/slo-burn/compare/v0.0.1...v0.0.2) - 2025-02-16
 - feat: Add workflows for publishing and versioning by @gr1m0h in https://github.com/gr1m0h/slo-burn/pull/18
 
