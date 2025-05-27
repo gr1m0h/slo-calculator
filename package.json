@@ -1,6 +1,6 @@
 {
   "name": "slo-calculator",
-  "version": "0.0.3",
+  "version": "1.0.0",
   "description": "SLO calculation tool aimed at excluding the impact of external service.",
   "main": "dist/index.js",
   "bin": {
